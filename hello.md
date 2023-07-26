@@ -41,6 +41,11 @@ Git add
 
 Для того, чтобы добавиь картинку, необходимо: ![Картинка](https://w.forfun.com/fetch/74/74739e1770f31cdbfdde99cc0b2925d3.jpeg)
 
+![Картинка](https://oir.mobi/uploads/posts/2021-05/1620050164_37-oir_mobi-p-malenkii-leopard-zhivotnie-krasivo-foto-41.jpg)
+
+---
+
+
 Для того, чтобы добавиь ссылку, необходимо: [Работа с Markdown](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html)
 
 
